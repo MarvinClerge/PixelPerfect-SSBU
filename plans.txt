@@ -1,0 +1,11 @@
+No need to get crazy with functionality.
+This is a frontend CSS based project.
+
+The main aspects of the project are: 
+	Showing characters in the boxes.
+	Picking up, dropping, and moving the cursor.
+	Characters appear in the P1 slot when hovered / selected.
+
+Try to consider a CDN to host images of the boxes and slots.
+Try to use PixelPerfect to wireframe.
+Create video showing the use of these technologies.

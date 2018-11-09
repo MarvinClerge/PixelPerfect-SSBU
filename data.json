@@ -1,0 +1,419 @@
+{
+  "Mario": {
+    "number": 1,
+    "portrait": "https://www.mariowiki.com/File:Mario_SSBUltimate.png",
+    "image": "https://www.mariowiki.com/images/3/3e/Mario_SSBUltimate.png",
+    "icon": "https://www.mariowiki.com/images/thumb/d/db/Mario_Emblem.png/35px-Mario_Emblem.png"
+  },
+  "Donkey Kong": {
+    "number": 2,
+    "portrait": "https://www.mariowiki.com/File:DonkeyKong_SSBU.png",
+    "image": "https://www.mariowiki.com/images/7/7e/DonkeyKong_SSBU.png",
+    "icon": "https://www.mariowiki.com/images/thumb/6/61/DK_Emblem.png/35px-DK_Emblem.png"
+  },
+  "Link": {
+    "number": 3,
+    "portrait": "https://www.mariowiki.com/File:LinkSSBU.png",
+    "image": "https://www.mariowiki.com/images/5/5e/LinkSSBU.png",
+    "icon": "https://www.mariowiki.com/images/thumb/8/85/Zelda_Emblem.png/35px-Zelda_Emblem.png"
+  },
+  "Samus": {
+    "number": 4,
+    "portrait": "https://www.mariowiki.com/File:Samus_SSBU.png",
+    "image": "https://www.mariowiki.com/images/0/03/Samus_SSBU.png",
+    "icon": "https://www.mariowiki.com/images/thumb/b/bc/Metroid_Emblem.png/35px-Metroid_Emblem.png"
+  },
+  "Dark Samus": {
+    "number": 5,
+    "portrait": "https://www.mariowiki.com/File:Dark_Samus_SSBU.png",
+    "image": "https://www.mariowiki.com/images/a/a6/Dark_Samus_SSBU.png",
+    "icon": "https://www.mariowiki.com/images/thumb/b/bc/Metroid_Emblem.png/35px-Metroid_Emblem.png"
+  },
+  "Yoshi": {
+    "number": 6,
+    "portrait": "https://www.mariowiki.com/File:YoshiSSBU.png",
+    "image": "https://www.mariowiki.com/images/c/ce/YoshiSSBU.png",
+    "icon": "https://www.mariowiki.com/images/thumb/2/2f/Yoshi_Emblem.png/35px-Yoshi_Emblem.png"
+  },
+  "Kirby": {
+    "number": 7,
+    "portrait": "https://www.mariowiki.com/File:Kirby_SSBU.png",
+    "image": "https://www.mariowiki.com/images/0/07/Kirby_SSBU.png",
+    "icon": "https://www.mariowiki.com/images/thumb/6/60/Kirby_Emblem.png/35px-Kirby_Emblem.png"
+  },
+  "Fox": {
+    "number": 8,
+    "portrait": "https://www.mariowiki.com/File:Fox_SSBU.png",
+    "image": "https://www.mariowiki.com/images/2/2f/Fox_SSBU.png",
+    "icon": "https://www.mariowiki.com/images/thumb/9/99/StarFox_Emblem.png/35px-StarFox_Emblem.png"
+  },
+  "Pikachu": {
+    "number": 9,
+    "portrait": "https://www.mariowiki.com/File:Pikachu_SSBU.png",
+    "image": "https://www.mariowiki.com/images/9/93/Pikachu_SSBU.png",
+    "icon": "https://www.mariowiki.com/images/thumb/1/19/Pokemon_Emblem.png/35px-Pokemon_Emblem.png"
+  },
+  "Luigi": {
+    "number": 10,
+    "portrait": "https://www.mariowiki.com/File:LuigiSSBU.png",
+    "image": "https://www.mariowiki.com/images/1/1d/LuigiSSBU.png",
+    "icon": "https://www.mariowiki.com/images/thumb/d/db/Mario_Emblem.png/35px-Mario_Emblem.png"
+  },
+  "Ness": {
+    "number": 11,
+    "portrait": "https://www.mariowiki.com/File:Ness_SSBU.png",
+    "image": "https://www.mariowiki.com/images/8/82/Ness_SSBU.png",
+    "icon": "https://www.mariowiki.com/images/thumb/c/c3/EarthBound_Emblem.png/35px-EarthBound_Emblem.png"
+  },
+  "Captain Falcon": {
+    "number": 12,
+    "portrait": "https://www.mariowiki.com/File:CaptainFalcon_SSBU.png",
+    "image": "https://www.mariowiki.com/images/7/76/CaptainFalcon_SSBU.png",
+    "icon": "https://www.mariowiki.com/images/thumb/c/c1/F-Zero_Emblem.png/35px-F-Zero_Emblem.png"
+  },
+  "Jigglypuff": {
+    "number": 13,
+    "portrait": "https://www.mariowiki.com/File:Jigglypuff_SSBU.png",
+    "image": "https://www.mariowiki.com/images/6/6a/Jigglypuff_SSBU.png",
+    "icon": "https://www.mariowiki.com/images/thumb/1/19/Pokemon_Emblem.png/35px-Pokemon_Emblem.png"
+  },
+  "Peach": {
+    "number": 14,
+    "portrait": "https://www.mariowiki.com/File:PeachSSBU.png",
+    "image": "https://www.mariowiki.com/images/6/6a/PeachSSBU.png",
+    "icon": "https://www.mariowiki.com/images/thumb/d/db/Mario_Emblem.png/35px-Mario_Emblem.png"
+  },
+  "Daisy": {
+    "number": 15,
+    "portrait": "https://www.mariowiki.com/File:Daisy_SSBUltimate.png",
+    "image": "https://www.mariowiki.com/images/3/35/Daisy_SSBUltimate.png",
+    "icon": "https://www.mariowiki.com/images/thumb/d/db/Mario_Emblem.png/35px-Mario_Emblem.png"
+  },
+  "Bowser": {
+    "number": 16,
+    "portrait": "https://www.mariowiki.com/File:Bowser_SSBU.png",
+    "image": "https://www.mariowiki.com/images/4/49/Bowser_SSBU.png",
+    "icon": "https://www.mariowiki.com/images/thumb/d/db/Mario_Emblem.png/35px-Mario_Emblem.png"
+  },
+  "Ice Climbers": {
+    "number": 17,
+    "portrait": "https://www.mariowiki.com/File:IceClimbers_SSBU.png",
+    "image": "https://www.mariowiki.com/images/e/e0/IceClimbers_SSBU.png",
+    "icon": "https://www.mariowiki.com/images/thumb/e/ed/IceClimbers_Emblem.png/35px-IceClimbers_Emblem.png"
+  },
+  "Sheik": {
+    "number": 18,
+    "portrait": "https://www.mariowiki.com/File:Sheik_SSBU.png",
+    "image": "https://www.mariowiki.com/images/0/00/Sheik_SSBU.png",
+    "icon": "https://www.mariowiki.com/images/thumb/8/85/Zelda_Emblem.png/35px-Zelda_Emblem.png"
+  },
+  "Zelda": {
+    "number": 19,
+    "portrait": "https://www.mariowiki.com/File:ZeldaSSBU.png",
+    "image": "https://www.mariowiki.com/images/5/5e/ZeldaSSBU.png",
+    "icon": "https://www.mariowiki.com/images/thumb/8/85/Zelda_Emblem.png/35px-Zelda_Emblem.png"
+  },
+  "Dr. Mario": {
+    "number": 20,
+    "portrait": "https://www.mariowiki.com/File:DrMario_SSBU.png",
+    "image": "https://www.mariowiki.com/images/b/b4/DrMario_SSBU.png",
+    "icon": "https://www.mariowiki.com/images/thumb/d/db/Mario_Emblem.png/35px-Mario_Emblem.png"
+  },
+  "Pichu": {
+    "number": 21,
+    "portrait": "https://www.mariowiki.com/File:Pichu_SSBU.png",
+    "image": "https://www.mariowiki.com/images/c/c1/Pichu_SSBU.png",
+    "icon": "https://www.mariowiki.com/images/thumb/1/19/Pokemon_Emblem.png/35px-Pokemon_Emblem.png"
+  },
+  "Falco": {
+    "number": 22,
+    "portrait": "https://www.mariowiki.com/File:FalcoSSBU.png",
+    "image": "https://www.mariowiki.com/images/a/ae/FalcoSSBU.png",
+    "icon": "https://www.mariowiki.com/images/thumb/9/99/StarFox_Emblem.png/35px-StarFox_Emblem.png"
+  },
+  "Marth": {
+    "number": 23,
+    "portrait": "https://www.mariowiki.com/File:Marth_SSBU.png",
+    "image": "https://www.mariowiki.com/images/e/e9/Marth_SSBU.png",
+    "icon": "https://www.mariowiki.com/images/thumb/8/8c/FireEmblem_Emblem.png/35px-FireEmblem_Emblem.png"
+  },
+  "Lucina": {
+    "number": 24,
+    "portrait": "https://www.mariowiki.com/File:Lucina_SSBU.png",
+    "image": "https://www.mariowiki.com/images/d/dc/Lucina_SSBU.png",
+    "icon": "https://www.mariowiki.com/images/thumb/8/8c/FireEmblem_Emblem.png/35px-FireEmblem_Emblem.png"
+  },
+  "Young Link": {
+    "number": 25,
+    "portrait": "https://www.mariowiki.com/File:YoungLink_SSBU.png",
+    "image": "https://www.mariowiki.com/images/2/26/YoungLink_SSBU.png",
+    "icon": "https://www.mariowiki.com/images/thumb/8/85/Zelda_Emblem.png/35px-Zelda_Emblem.png"
+  },
+  "Ganondorf": {
+    "number": 26,
+    "portrait": "https://www.mariowiki.com/File:Ganondorf_SSBU.png",
+    "image": "https://www.mariowiki.com/images/9/91/Ganondorf_SSBU.png",
+    "icon": "https://www.mariowiki.com/images/thumb/8/85/Zelda_Emblem.png/35px-Zelda_Emblem.png"
+  },
+  "Mewtwo": {
+    "number": 27,
+    "portrait": "https://www.mariowiki.com/File:Mewtwo_SSBU.png",
+    "image": "https://www.mariowiki.com/images/d/de/Mewtwo_SSBU.png",
+    "icon": "https://www.mariowiki.com/images/thumb/1/19/Pokemon_Emblem.png/35px-Pokemon_Emblem.png"
+  },
+  "Roy": {
+    "number": 28,
+    "portrait": "https://www.mariowiki.com/File:RoySSBU.png",
+    "image": "https://www.mariowiki.com/images/d/da/RoySSBU.png",
+    "icon": "https://www.mariowiki.com/images/thumb/8/8c/FireEmblem_Emblem.png/35px-FireEmblem_Emblem.png"
+  },
+  "Chrom": {
+    "number": 29,
+    "portrait": "https://www.mariowiki.com/File:Chrom_SSBU.png",
+    "image": "https://www.mariowiki.com/images/5/57/Chrom_SSBU.png",
+    "icon": "https://www.mariowiki.com/images/thumb/8/8c/FireEmblem_Emblem.png/35px-FireEmblem_Emblem.png"
+  },
+  "Mr. Game and Watch": {
+    "number": 30
+  },
+  "Meta Knight": {
+    "number": 31,
+    "portrait": "https://www.mariowiki.com/File:MetaKnightSSBU.png",
+    "image": "https://www.mariowiki.com/images/7/75/MetaKnightSSBU.png",
+    "icon": "https://www.mariowiki.com/images/thumb/6/60/Kirby_Emblem.png/35px-Kirby_Emblem.png"
+  },
+  "Pit": {
+    "number": 32,
+    "portrait": "https://www.mariowiki.com/File:Pit_SSBU.png",
+    "image": "https://www.mariowiki.com/images/3/38/Pit_SSBU.png",
+    "icon": "https://www.mariowiki.com/images/thumb/e/e0/KidIcarus_Emblem.png/35px-KidIcarus_Emblem.png"
+  },
+  "Dark Pit": {
+    "number": 33,
+    "portrait": "https://www.mariowiki.com/File:DarkPit_SSBU.png",
+    "image": "https://www.mariowiki.com/images/c/cc/DarkPit_SSBU.png",
+    "icon": "https://www.mariowiki.com/images/thumb/e/e0/KidIcarus_Emblem.png/35px-KidIcarus_Emblem.png"
+  },
+  "Zero Suit Samus": {
+    "number": 34,
+    "portrait": "https://www.mariowiki.com/File:ZeroSuitSamus_SSBU.png",
+    "image": "https://www.mariowiki.com/images/f/f4/ZeroSuitSamus_SSBU.png",
+    "icon": "https://www.mariowiki.com/images/thumb/b/bc/Metroid_Emblem.png/35px-Metroid_Emblem.png"
+  },
+  "Wario": {
+    "number": 35,
+    "portrait": "https://www.mariowiki.com/File:WarioSSBU.png",
+    "image": "https://www.mariowiki.com/images/8/87/WarioSSBU.png",
+    "icon": "https://www.mariowiki.com/images/thumb/4/4b/Wario_Emblem.png/35px-Wario_Emblem.png"
+  },
+  "Snake": {
+    "number": 36,
+    "portrait": "https://www.mariowiki.com/File:Snake_SSBUltimate.png",
+    "image": "https://www.mariowiki.com/images/2/23/Snake_SSBUltimate.png",
+    "icon": "https://www.mariowiki.com/images/thumb/1/18/MetalGearSymbol.svg/35px-MetalGearSymbol.svg.png"
+  },
+  "Ike": {
+    "number": 37,
+    "portrait": "https://www.mariowiki.com/File:IkeSSBU.png",
+    "image": "https://www.mariowiki.com/images/7/78/IkeSSBU.png",
+    "icon": "https://www.mariowiki.com/images/thumb/8/8c/FireEmblem_Emblem.png/35px-FireEmblem_Emblem.png"
+  },
+  "Pokémon Trainer": {
+    "number": 38,
+    "portrait": "https://www.mariowiki.com/File:Pok%C3%A9mon_Trainer_SSBU.png",
+    "image": "https://www.mariowiki.com/images/0/0f/Pok%C3%A9mon_Trainer_SSBU.png",
+    "icon": "https://www.mariowiki.com/images/thumb/1/19/Pokemon_Emblem.png/35px-Pokemon_Emblem.png"
+  },
+  "Diddy Kong": {
+    "number": 39,
+    "portrait": "https://www.mariowiki.com/File:DiddyKong_SSBU.png",
+    "image": "https://www.mariowiki.com/images/b/b8/DiddyKong_SSBU.png",
+    "icon": "https://www.mariowiki.com/images/thumb/6/61/DK_Emblem.png/35px-DK_Emblem.png"
+  },
+  "Lucas": {
+    "number": 40,
+    "portrait": "https://www.mariowiki.com/File:Lucas_SSBU.png",
+    "image": "https://www.mariowiki.com/images/8/81/Lucas_SSBU.png",
+    "icon": "https://www.mariowiki.com/images/thumb/c/c3/EarthBound_Emblem.png/35px-EarthBound_Emblem.png"
+  },
+  "Sonic": {
+    "number": 41,
+    "portrait": "https://www.mariowiki.com/File:Sonic_SSBU.png",
+    "image": "https://www.mariowiki.com/images/b/ba/Sonic_SSBU.png",
+    "icon": "https://www.mariowiki.com/images/thumb/c/c1/Sonic_Emblem.png/35px-Sonic_Emblem.png"
+  },
+  "King Dedede": {
+    "number": 42,
+    "portrait": "https://www.mariowiki.com/File:KingDededeSSBU.png",
+    "image": "https://www.mariowiki.com/images/d/da/KingDededeSSBU.png",
+    "icon": "https://www.mariowiki.com/images/thumb/6/60/Kirby_Emblem.png/35px-Kirby_Emblem.png"
+  },
+  "Olimar": {
+    "number": 43,
+    "portrait": "https://www.mariowiki.com/File:Olimar_SSBU.png",
+    "image": "https://www.mariowiki.com/images/b/b3/Olimar_SSBU.png",
+    "icon": "https://www.mariowiki.com/images/thumb/5/5a/Pikmin_Emblem.png/35px-Pikmin_Emblem.png"
+  },
+  "Lucario": {
+    "number": 44,
+    "portrait": "https://www.mariowiki.com/File:Lucario_SSBU.png",
+    "image": "https://www.mariowiki.com/images/0/08/Lucario_SSBU.png",
+    "icon": "https://www.mariowiki.com/images/thumb/1/19/Pokemon_Emblem.png/35px-Pokemon_Emblem.png"
+  },
+  "R.O.B.": {
+    "number": 45,
+    "portrait": "https://www.mariowiki.com/File:ROB_SSBU.png",
+    "image": "https://www.mariowiki.com/images/b/b8/ROB_SSBU.png",
+    "icon": "https://www.mariowiki.com/images/thumb/b/b7/ROB_Emblem.png/35px-ROB_Emblem.png"
+  },
+  "Toon Link": {
+    "number": 46,
+    "portrait": "https://www.mariowiki.com/File:ToonLink_SSBU.png",
+    "image": "https://www.mariowiki.com/images/7/7e/ToonLink_SSBU.png",
+    "icon": "https://www.mariowiki.com/images/thumb/8/85/Zelda_Emblem.png/35px-Zelda_Emblem.png"
+  },
+  "Wolf": {
+    "number": 47,
+    "portrait": "https://www.mariowiki.com/File:WolfSSBU.png",
+    "image": "https://www.mariowiki.com/images/4/42/WolfSSBU.png",
+    "icon": "https://www.mariowiki.com/images/thumb/9/99/StarFox_Emblem.png/35px-StarFox_Emblem.png"
+  },
+  "Villager": {
+    "number": 48,
+    "portrait": "https://www.mariowiki.com/File:Villager_SSBU.png",
+    "image": "https://www.mariowiki.com/images/a/ac/Villager_SSBU.png",
+    "icon": "https://www.mariowiki.com/images/thumb/7/7e/AnimalCrossing_Emblem.png/35px-AnimalCrossing_Emblem.png"
+  },
+  "Mega Man": {
+    "number": 49,
+    "portrait": "https://www.mariowiki.com/File:MegaMan_SSBU.png",
+    "image": "https://www.mariowiki.com/images/8/8a/MegaMan_SSBU.png",
+    "icon": "https://www.mariowiki.com/images/thumb/b/ba/MegaMan_Emblem.png/35px-MegaMan_Emblem.png"
+  },
+  "Wii Fit Trainer": {
+    "number": 50,
+    "portrait": "https://www.mariowiki.com/File:WiiFitTrainer_SSBU.png",
+    "image": "https://www.mariowiki.com/images/a/a0/WiiFitTrainer_SSBU.png",
+    "icon": "https://www.mariowiki.com/images/thumb/7/7f/Wii_Fit_series_icon.png/35px-Wii_Fit_series_icon.png"
+  },
+  "Rosalina": {
+    "number": 51
+  },
+  "Little Mac": {
+    "number": 52,
+    "portrait": "https://www.mariowiki.com/File:LittleMac_SSBU.png",
+    "image": "https://www.mariowiki.com/images/7/7b/LittleMac_SSBU.png",
+    "icon": "https://www.mariowiki.com/images/thumb/9/96/PunchOutSymbol.png/35px-PunchOutSymbol.png"
+  },
+  "Greninja": {
+    "number": 53,
+    "portrait": "https://www.mariowiki.com/File:Greninja_SSBU.png",
+    "image": "https://www.mariowiki.com/images/d/da/Greninja_SSBU.png",
+    "icon": "https://www.mariowiki.com/images/thumb/1/19/Pokemon_Emblem.png/35px-Pokemon_Emblem.png"
+  },
+  "Mii Fighter": {
+    "number": 54
+  },
+  "Palutena": {
+    "number": 55,
+    "portrait": "https://www.mariowiki.com/File:PalutenaSSBU.png",
+    "image": "https://www.mariowiki.com/images/4/4e/PalutenaSSBU.png",
+    "icon": "https://www.mariowiki.com/images/thumb/e/e0/KidIcarus_Emblem.png/35px-KidIcarus_Emblem.png"
+  },
+  "PAC-MAN": {
+    "number": 56
+  },
+  "Robin": {
+    "number": 57,
+    "portrait": "https://www.mariowiki.com/File:RobinSSBU.png",
+    "image": "https://www.mariowiki.com/images/2/2f/RobinSSBU.png",
+    "icon": "https://www.mariowiki.com/images/thumb/8/8c/FireEmblem_Emblem.png/35px-FireEmblem_Emblem.png"
+  },
+  "Shulk": {
+    "number": 58,
+    "portrait": "https://www.mariowiki.com/File:ShulkSSBU.png",
+    "image": "https://www.mariowiki.com/images/4/41/ShulkSSBU.png",
+    "icon": "https://www.mariowiki.com/images/thumb/c/cf/XenobladeEmblem.png/35px-XenobladeEmblem.png"
+  },
+  "Bowser Jr.": {
+    "number": 59,
+    "portrait": "https://www.mariowiki.com/File:BowserJr_SSBU.png",
+    "image": "https://www.mariowiki.com/images/7/77/BowserJr_SSBU.png",
+    "icon": "https://www.mariowiki.com/images/thumb/d/db/Mario_Emblem.png/35px-Mario_Emblem.png"
+  },
+  "Duck Hunt": {
+    "number": 60,
+    "portrait": "https://www.mariowiki.com/File:DuckHunt_SSBU.png",
+    "image": "https://www.mariowiki.com/images/d/da/DuckHunt_SSBU.png",
+    "icon": "https://www.mariowiki.com/images/thumb/9/91/DuckHunt_Emblem.png/35px-DuckHunt_Emblem.png"
+  },
+  "Ryu": {
+    "number": 61,
+    "portrait": "https://www.mariowiki.com/File:Ryu_SSBU.png",
+    "image": "https://www.mariowiki.com/images/6/61/Ryu_SSBU.png",
+    "icon": "https://www.mariowiki.com/images/thumb/7/7a/StreetFighterEmblem.png/35px-StreetFighterEmblem.png"
+  },
+  "Ken": {
+    "number": 62,
+    "portrait": "https://www.mariowiki.com/File:Ken_SSBU.png",
+    "image": "https://www.mariowiki.com/images/f/f6/Ken_SSBU.png",
+    "icon": "https://www.mariowiki.com/images/thumb/7/7a/StreetFighterEmblem.png/35px-StreetFighterEmblem.png"
+  },
+  "Cloud": {
+    "number": 63,
+    "portrait": "https://www.mariowiki.com/File:Cloud_SSBU.png",
+    "image": "https://www.mariowiki.com/images/b/b3/Cloud_SSBU.png",
+    "icon": "https://www.mariowiki.com/images/thumb/c/cd/Final_Fantasy_Symbol.png/35px-Final_Fantasy_Symbol.png"
+  },
+  "Corrin": {
+    "number": 64,
+    "portrait": "https://www.mariowiki.com/File:Corrin_SSBU.png",
+    "image": "https://www.mariowiki.com/images/c/c4/Corrin_SSBU.png",
+    "icon": "https://www.mariowiki.com/images/thumb/8/8c/FireEmblem_Emblem.png/35px-FireEmblem_Emblem.png"
+  },
+  "Bayonetta": {
+    "number": 65,
+    "portrait": "https://www.mariowiki.com/File:Bayonetta_SSBU.png",
+    "image": "https://www.mariowiki.com/images/7/7c/Bayonetta_SSBU.png",
+    "icon": "https://www.mariowiki.com/images/thumb/d/db/Bayonetta.png/35px-Bayonetta.png"
+  },
+  "Inkling": {
+    "number": 66,
+    "portrait": "https://www.mariowiki.com/File:Inkling_SSBU.png",
+    "image": "https://www.mariowiki.com/images/2/2e/Inkling_SSBU.png",
+    "icon": "https://www.mariowiki.com/images/thumb/0/08/SplatoonSymbol.svg/35px-SplatoonSymbol.svg.png"
+  },
+  "Ridley": {
+    "number": 67,
+    "portrait": "https://www.mariowiki.com/File:Ridley_SSBUltimate.png",
+    "image": "https://www.mariowiki.com/images/1/18/Ridley_SSBUltimate.png",
+    "icon": "https://www.mariowiki.com/images/thumb/b/bc/Metroid_Emblem.png/35px-Metroid_Emblem.png"
+  },
+  "Simon": {
+    "number": 68,
+    "portrait": "https://www.mariowiki.com/File:Simon_Belmont_SSBU.png",
+    "image": "https://www.mariowiki.com/images/8/89/Simon_Belmont_SSBU.png",
+    "icon": "https://www.mariowiki.com/images/thumb/a/a7/CastlevaniaSymbol.svg/35px-CastlevaniaSymbol.svg.png"
+  },
+  "Richter": {
+    "number": 69,
+    "portrait": "https://www.mariowiki.com/File:Richter_Belmont_SSBU.png",
+    "image": "https://www.mariowiki.com/images/0/09/Richter_Belmont_SSBU.png",
+    "icon": "https://www.mariowiki.com/images/thumb/a/a7/CastlevaniaSymbol.svg/35px-CastlevaniaSymbol.svg.png"
+  },
+  "King K. Rool": {
+    "number": 70,
+    "portrait": "https://www.mariowiki.com/File:King_K_Rool_SSBU.png",
+    "image": "https://www.mariowiki.com/images/8/87/King_K_Rool_SSBU.png",
+    "icon": "https://www.mariowiki.com/images/thumb/6/61/DK_Emblem.png/35px-DK_Emblem.png"
+  },
+  "Isabelle": {
+    "number": 71
+  },
+  "Incineroar": {
+    "number": 72
+  },
+  "Piranha Plant": {
+    "number": 73
+  }
+}
