@@ -317,8 +317,23 @@
     "image": "https://www.mariowiki.com/images/d/da/Greninja_SSBU.png",
     "icon": "https://www.mariowiki.com/images/thumb/1/19/Pokemon_Emblem.png/35px-Pokemon_Emblem.png"
   },
-  "Mii Fighter": {
-    "number": 54
+  "Mii Brawler": {
+    "number": 100,
+    "portrait": "https://www.mariowiki.com/images/thumb/c/cc/MiiBrawler_SSBU.png/240px-MiiBrawler_SSBU.png",
+    "image": "https://www.mariowiki.com/images/thumb/c/cc/MiiBrawler_SSBU.png/1200px-MiiBrawler_SSBU.png",
+    "icon": "https://www.mariowiki.com/images/thumb/e/e9/SmashBros_Emblem.png/70px-SmashBros_Emblem.png"
+  },
+  "Mii Swordfighter": {
+    "number": 101,
+    "portrait": "https://www.mariowiki.com/images/thumb/7/7a/MiiSwordfighterSSBU.png/240px-MiiSwordfighterSSBU.png",
+    "image": "https://www.mariowiki.com/images/thumb/7/7a/MiiSwordfighterSSBU.png/1200px-MiiSwordfighterSSBU.png",
+    "icon": "https://www.mariowiki.com/images/thumb/e/e9/SmashBros_Emblem.png/70px-SmashBros_Emblem.png"
+  },
+  "Mii Gunner": {
+    "number": 102,
+    "portrait": "https://www.mariowiki.com/images/thumb/0/03/MiiGunner_SSBU.png/240px-MiiGunner_SSBU.png",
+    "image": "https://www.mariowiki.com/images/thumb/0/03/MiiGunner_SSBU.png/1200px-MiiGunner_SSBU.png",
+    "icon": "https://www.mariowiki.com/images/thumb/e/e9/SmashBros_Emblem.png/70px-SmashBros_Emblem.png"
   },
   "Palutena": {
     "number": 55,
