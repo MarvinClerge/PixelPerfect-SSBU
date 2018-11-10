@@ -92,3 +92,7 @@ end
 
 
 run()
+
+# Enter the following character data manually:
+# Game and Watch, Rosalina, Mii Fighters, Pac-Man,
+# Isabelle, Incineroar, Piranha Plant

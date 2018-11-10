@@ -174,7 +174,10 @@
     "icon": "https://www.mariowiki.com/images/thumb/8/8c/FireEmblem_Emblem.png/35px-FireEmblem_Emblem.png"
   },
   "Mr. Game and Watch": {
-    "number": 30
+    "number": 30,
+    "portrait": "https://www.mariowiki.com/images/thumb/7/70/MrGameWatch_SSBU.png/240px-MrGameWatch_SSBU.png",
+    "image": "https://www.mariowiki.com/images/7/70/MrGameWatch_SSBU.png",
+    "icon": "https://www.mariowiki.com/images/thumb/f/fe/Game%26Watch_Emblem.png/70px-Game%26Watch_Emblem.png"
   },
   "Meta Knight": {
     "number": 31,
@@ -297,7 +300,10 @@
     "icon": "https://www.mariowiki.com/images/thumb/7/7f/Wii_Fit_series_icon.png/35px-Wii_Fit_series_icon.png"
   },
   "Rosalina": {
-    "number": 51
+    "number": 51,
+    "portrait": "https://www.mariowiki.com/images/thumb/6/63/RosalinaLuma_SBBU.png/214px-RosalinaLuma_SBBU.png",
+    "image": "https://www.mariowiki.com/images/thumb/6/63/RosalinaLuma_SBBU.png/1068px-RosalinaLuma_SBBU.png",
+    "icon": "https://www.mariowiki.com/images/thumb/d/db/Mario_Emblem.png/70px-Mario_Emblem.png"
   },
   "Little Mac": {
     "number": 52,
@@ -321,7 +327,10 @@
     "icon": "https://www.mariowiki.com/images/thumb/e/e0/KidIcarus_Emblem.png/35px-KidIcarus_Emblem.png"
   },
   "PAC-MAN": {
-    "number": 56
+    "number": 56,
+    "portrait": "https://www.mariowiki.com/images/thumb/0/03/Pac-Man_SSBU.png/240px-Pac-Man_SSBU.png",
+    "image": "https://www.mariowiki.com/images/thumb/0/03/Pac-Man_SSBU.png/1200px-Pac-Man_SSBU.png",
+    "icon": "https://www.mariowiki.com/images/thumb/7/70/Pac-ManEmblem.png/70px-Pac-ManEmblem.png"
   },
   "Robin": {
     "number": 57,
@@ -408,12 +417,21 @@
     "icon": "https://www.mariowiki.com/images/thumb/6/61/DK_Emblem.png/35px-DK_Emblem.png"
   },
   "Isabelle": {
-    "number": 71
+    "number": 71,
+    "portrait": "https://www.mariowiki.com/images/thumb/2/2b/Isabelle_SSBU.png/240px-Isabelle_SSBU.png",
+    "image": "https://www.mariowiki.com/images/thumb/2/2b/Isabelle_SSBU.png/1200px-Isabelle_SSBU.png",
+    "icon": "https://www.mariowiki.com/images/thumb/7/7e/AnimalCrossing_Emblem.png/70px-AnimalCrossing_Emblem.png"
   },
   "Incineroar": {
-    "number": 72
+    "number": 72,
+    "portrait": "https://www.mariowiki.com/images/thumb/c/c4/Incineroar_SSBU.png/240px-Incineroar_SSBU.png",
+    "image": "https://www.mariowiki.com/images/thumb/c/c4/Incineroar_SSBU.png/1200px-Incineroar_SSBU.png",
+    "icon": "https://www.mariowiki.com/images/thumb/1/19/Pokemon_Emblem.png/70px-Pokemon_Emblem.png"
   },
   "Piranha Plant": {
-    "number": 73
+    "number": 73,
+    "portrait": "https://www.mariowiki.com/images/thumb/f/f0/Piranha_Plant_SSBU.png/240px-Piranha_Plant_SSBU.png",
+    "image": "https://www.mariowiki.com/images/thumb/f/f0/Piranha_Plant_SSBU.png/1200px-Piranha_Plant_SSBU.png",
+    "icon": "https://www.mariowiki.com/images/thumb/d/db/Mario_Emblem.png/70px-Mario_Emblem.png"
   }
 }
