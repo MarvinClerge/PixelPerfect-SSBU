@@ -62,7 +62,7 @@ def get_portraits_and_icons(hash, element)
 
     if !!hash[name] # If the character exsists in the hash
       # Find portrait link in HTML and add to hash
-      portrait_url = cell.css('a').attr('href').value
+      portrait_url = cell.css('div.thumb img').attr('src').value
       hash[name][:portrait] = "https://www.mariowiki.com" + portrait_url
 
       # Find image link in HTML and add to hash
