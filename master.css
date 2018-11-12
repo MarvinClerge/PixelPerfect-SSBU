@@ -39,8 +39,12 @@
 }
 
 .active-border {
+  display: none;
   width: 100%;
   height: 100%;
   position: absolute;
   background: grey;
+  clip-path: polygon(100% 0, 0 0, 10px 4px, 136px 4px,
+    136px 82px, 130px 88px, 4px 88px, 4px 10px,
+    10px 4px, 0 0, 0 100%, 100% 100%);
 }

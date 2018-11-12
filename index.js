@@ -16,9 +16,20 @@ document.addEventListener('DOMContentLoaded', function(){
       let activeBorder = document.createElement('div')
       activeBorder.className = "active-border"
 
+      div.addEventListener('mouseenter', event => {
+        console.log(event.target.id);
+        event.target.querySelector('.active-border').style.display = "inline"
+      })
+
+      div.addEventListener('mouseleave', event => {
+        console.log(event.target.id);
+        event.target.querySelector('.active-border').style.display = "none"
+      })
+
       div.appendChild(activeBorder)
       container.appendChild(div)
     })
+
 
 
 
