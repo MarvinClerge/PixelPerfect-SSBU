@@ -1,0 +1,66 @@
+#Mario {
+  background-size: 150% auto;
+  background-position: 15px -35px;
+}
+
+#Donkey\ Kong {
+  background-size: 191% auto;
+  background-position: -75px -52px;
+}
+
+#Link {
+  background-size: 350% auto;
+  background-position: -225px -110px;
+}
+
+#Samus {
+  background-size: 400% auto;
+  background-position: -200px -75px;
+}
+
+#Dark\ Samus {
+  background-size: 350% auto;
+  background-position: -185px -30px;
+}
+
+#Yoshi {
+  background-size: 160% auto;
+  background-position: -70px -11px;
+}
+
+#Kirby {
+  background-size: 130% auto;
+  background-position: -25px -28px;
+}
+
+#Fox {
+  background-size: 220% auto;
+  background-position: -75px -40px;
+}
+
+#Pikachu {
+  background-size: 150% auto;
+  background-position: -33px -40px;
+}
+
+#Luigi {
+  background-size: 170% auto;
+  background-position: -62px -37px;
+}
+
+#Ness {
+  background-size: 180% auto;
+  background-position: -62px -42px;
+}
+
+#Captain\ Falcon {
+  background-size: 350% auto;
+  background-position: -150px 0px;
+}
+
+/*
+#Name {
+  background-size: 100% auto;
+  background-position: 0px 0px;
+}
+s */

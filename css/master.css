@@ -9,7 +9,7 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  background: darkgreen;
+  background: black;
   padding: 9px 14px 17px 14px;
 }
 
@@ -31,6 +31,7 @@
   background-size: 90% auto;
   background-position: center top;
   background-repeat: no-repeat;
+  background-color: grey;
 
   display: flex;
   justify-content: center;
