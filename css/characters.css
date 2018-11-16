@@ -1,3 +1,5 @@
+/* CSS for each characters' image size and position */
+
 #Mario {
   background-size: 150% auto;
   background-position: 15px -35px;
@@ -64,8 +66,10 @@
 }
 
 /*
+
 #Name {
   background-size: 100% auto;
   background-position: 0px 0px;
 }
+
 s */

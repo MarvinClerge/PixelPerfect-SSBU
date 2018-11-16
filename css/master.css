@@ -4,7 +4,7 @@
   font-family: "Arial Black", Gadget, sans-serif;
 }
 
-
+/* Div containing character divs */
 .characters-container {
   display: flex;
   flex-wrap: wrap;
@@ -13,6 +13,7 @@
   padding: 9px 14px 17px 14px;
 }
 
+/* Div containing character name and image */
 .character {
   width: 140px;
   height: 92px;
@@ -39,6 +40,7 @@
   text-transform: uppercase;
 }
 
+/* Border in each character div (Shows when highlighted) */
 .active-border {
   display: none;
   width: 100%;
@@ -48,4 +50,9 @@
   clip-path: polygon(100% 0, 0 0, 10px 4px, 136px 4px,
     136px 82px, 130px 88px, 4px 88px, 4px 10px,
     10px 4px, 0 0, 0 100%, 100% 100%);
+}
+
+/* Image displaying current character after characters-container */
+.player1 img {
+  width: 300px;
 }
