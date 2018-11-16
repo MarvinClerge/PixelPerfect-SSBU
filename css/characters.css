@@ -54,8 +54,13 @@
 }
 
 #Captain\ Falcon {
-  background-size: 350% auto;
-  background-position: -150px 0px;
+  background-size: 370% auto;
+  background-position: -230px -48px;
+}
+
+#Jigglypuff {
+  background-size: 105% auto;
+  background-position: -10px -38px;
 }
 
 /*
